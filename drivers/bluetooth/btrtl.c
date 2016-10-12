@@ -27,7 +27,7 @@
 
 #define VERSION "0.1"
 
-#define RTL_EPATCH_SIGNATURE	"Realtech"
+#define RTL_EPATCH_SIGNATURE	"Realtek"
 #define RTL_ROM_LMP_3499	0x3499
 #define RTL_ROM_LMP_8723A	0x1200
 #define RTL_ROM_LMP_8723B	0x8723
